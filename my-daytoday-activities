@@ -3,3 +3,4 @@ jenkins is my ci/cd tools
 ansible is my configuration tool 
 docker is my containerized tool
 kubernetes is my orchestration tool
+aws is my cloud provider
